@@ -1,8 +1,8 @@
-## Hi there 👋
+# MyHistoryBook
 
-## MyHistoryBook
+## 项目介绍🙋‍
 
-记录你的人生轨迹。
+记录你的人生轨迹。用文字、图片记录下你生活的点点滴滴。
 <!--
 
 **Here are some ideas to get you started:**
